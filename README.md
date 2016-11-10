@@ -10,3 +10,9 @@ sisälle README.md tiedoston. Lisäsin tänne manifests kansion johon loin init.
 jonka sisältö oli apache2:den asennus. Tämän jälkeen ajoin komennon
 sudo git add . && git commit && git pull && git push ja kirjoitin committiin mitä olin
 tehnyt jonka jälkeen kaikki kansion sisältö latautui githubiin.
+
+Lähteet:
+
+http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016
+
+https://github.com/jooelnurmi/asennus
